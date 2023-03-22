@@ -1,8 +1,5 @@
 # User function Template for python3
 
-from copy import copy
-
-
 class Solution_beta:
     def solve(self, X, Y, S):
         # code here
